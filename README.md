@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PRiEsTCSC
-- 👀 I’m interested in both Machine Learning and Cyber Security
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m both in a backend Developer and a Machine Learning Engineer
+- 🌱 I’m currently Cyber Security
 - 📫 How to reach me noblegabriel40@gmail.com
 
 <!---
