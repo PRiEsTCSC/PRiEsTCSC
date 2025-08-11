@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRiEsTCSC
-- 👀 I’m both in a backend Developer and a Machine Learning Engineer
-- 🌱 I’m currently Cyber Security
+- 👀 I’m both in a Backend Developer with a knack for Machine Learning
+- 🌱 I’m currently improving my backend skills and best practices
 - 📫 How to reach me noblegabriel40@gmail.com
 
 <!---
