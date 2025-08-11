@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRiEsTCSC
+- 👋 Hi, I’m Priest
 - 👀 I’m both in a Backend Developer with a knack for Machine Learning
 - 🌱 I’m currently improving my backend skills and best practices
 - 📫 How to reach me noblegabriel40@gmail.com
