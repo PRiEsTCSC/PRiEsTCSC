@@ -131,7 +131,7 @@ Here are the technologies I work with. My main focus is on **Rust**, **Python**,
 <table>
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="https://github.com/PRIESTCSC/YOUR-REPO-NAME">Video Similarity Matching Service</a></h4>
+      <h4 align="center"><a href="https://github.com/PRiEsTCSC/video-shazam">Video Similarity Matching Service</a></h4>
       <p>Engineered a "Shazam for video" system to identify and match video content using custom complex similarity algorithms. A high-performance backend that processes video data to find duplicates or related clips.</p>
       <p align="center">
         <code>Rust</code> <code>Actix-Web</code> <code>Computer Vision</code> <code>Algorithms</code>
