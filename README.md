@@ -147,7 +147,7 @@ Here are the technologies I work with. My main focus is on **Rust**, **Python**,
   </tr>
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="https://github.com/PRIESTCSC/YOUR-REPO-NAME">Fingerprint & Facial Recognition App</a></h4>
+      <h4 align="center"><a href="https://github.com/PRiEsTCSC/time_table_attendance">Fingerprint & Facial Recognition Backend Support</a></h4>
       <p>A React Native attendance application for Android devices, incorporating fingerprint and computer-vision-based facial recognition for secure and seamless check-ins.</p>
       <p align="center">
         <code>React Native</code> <code>Biometrics</code> <code>Facial Recognition</code> <code>Android</code>
@@ -156,6 +156,7 @@ Here are the technologies I work with. My main focus is on **Rust**, **Python**,
     <td width="50%">
        <h4 align="center"><a href="https://github.com/PRIESTCSC/YOUR-REPO-NAME">Real-Time Spam Classifier</a></h4>
       <p>Developed an end-to-end email-spam detection pipeline with browser notifications, providing instant user feedback on potentially malicious content.</p>
+      <p> Coming Soon ... </p>
       <p align="center">
         <code>Python</code> <code>Machine Learning</code> <code>Web Sockets</code> <code>Data Pipeline</code>
       </p>
